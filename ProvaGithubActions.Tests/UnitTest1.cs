@@ -11,6 +11,6 @@ public sealed class UnitTest1
     [Fact]
     public void Test2()
     {
-        Assert.False(1 + 1 == 3);
+        Assert.False(1 + 1 == 2);
     }
 }
